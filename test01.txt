@@ -19,12 +19,7 @@ function a(){ var a =5;}
 
 function bm(){var b =2;}
 
-function kk(){var vv =2;}
 
-<<<<<<< HEAD
 function ct(){var k =3;}
 
-=======
-function ct(){}
->>>>>>> remotes/gggg/master
 
