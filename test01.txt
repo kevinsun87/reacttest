@@ -1,6 +1,6 @@
 hfnbcgfdhnvc nhbcg hdfgdgdg
 
-hsga
+hsxxxxxxxxxxxxxxxxxxxxxxga
 
 bbbbaaa
 
@@ -17,7 +17,7 @@ function b(abc){}
 function a(){ var a =1;}
 
 
-function bm(){}
+function bm(){var b =2;}
 
 
 function ct(){}
