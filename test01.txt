@@ -13,3 +13,4 @@ function b(abc){}
 function a(){}
 
 
+function bm(){}
