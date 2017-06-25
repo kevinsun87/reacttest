@@ -20,4 +20,6 @@ function a(){ var a =1;}
 function bm(){var b =2;}
 
 
-function ct(){}
+function ct(){var k =3;}
+
+
